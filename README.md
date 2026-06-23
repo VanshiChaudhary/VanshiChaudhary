@@ -103,6 +103,54 @@
 </div>
 
 ---
+---
+
+## 🚀 Featured Projects
+
+<table align="center" border="0" cellspacing="0" cellpadding="10">
+
+<tr>
+<td width="50%" valign="top">
+
+### 💰 Expense Tracker System
+A desktop finance manager with full user authentication, income/expense tracking, and category-based financial insights. Built with Java and MySQL using JDBC for seamless database operations.
+
+`Java` `MySQL` `JDBC` `OOP`
+
+</td>
+<td width="50%" valign="top">
+
+### 🕵️ Fake Account Detector
+ML-powered web app that analyzes social media behavioral patterns to classify accounts as real or fake. Features real-time prediction with an interactive Streamlit interface.
+
+`Python` `Machine Learning` `Streamlit` `Scikit-Learn`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 VeriLens — Fake News Detector
+AI system that detects misinformation using emotion analysis, source credibility scoring, and live news cross-verification. Built to fight the spread of digital misinformation.
+
+`Python` `NLP` `AI` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 RoboDoctor AI
+AI-powered health screening assistant that guides users through symptom analysis using intelligent conversation flows. Focused on making basic medical screening accessible to everyone.
+
+`Next.js` `TypeScript` `AI` `Healthcare`
+
+</td>
+</tr>
+
+</table>
+
+</div>
+---
 
 ## 📊 GitHub Stats
 
