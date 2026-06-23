@@ -22,7 +22,7 @@
 
 <br/>
 
-[
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshi-chaudhary-887076364?utm_source=share_via&utm_content=profile&utm_medium=member_android)
