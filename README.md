@@ -32,7 +32,7 @@
 </td>
 <td valign="middle" width="45%" align="center">
 
-<img src="https://raw.githubusercontent.com/VanshiChaudhary/VanshiChaudhary/main/girl_with_laptop.png" 
+https://raw.githubusercontent.com/VanshiChaudhary/VanshiChaudhary/main/girl%20with%20laptop.png
      alt="Vanshi's Avatar" 
      width="280px"
      style="border-radius: 20px;" />
