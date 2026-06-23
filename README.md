@@ -122,7 +122,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
 ## 🏆 GitHub Trophies
 
