@@ -39,66 +39,79 @@
 </table>
 
 ---
+---
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-
+<table border="0" cellspacing="0" cellpadding="8">
+<tr>
+<td align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
-
+</td>
+<td align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-
-
+</td>
+<td align="center">
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-
-
+</td>
+</tr>
+<tr>
+<td align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-
+</td>
+<td align="center">
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-
-
+</td>
+<td align="center">
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-
-
+</td>
+</tr>
+<tr>
+<td align="center">
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-
-
+</td>
+<td align="center">
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-
-
+</td>
+<td align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
-
+</td>
+</tr>
+<tr>
+<td align="center">
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-
+</td>
+<td align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
+</td>
+<td align="center">
+</td>
+</tr>
+</table>
 
 </div>
 
