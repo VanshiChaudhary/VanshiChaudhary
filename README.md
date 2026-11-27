@@ -113,7 +113,7 @@ A Java-based application designed to help users record and manage expenses.
 
 **Data Scientist Intern — Summer Internship**
 
-[Organization Name] | [Month Year – Month Year]
+[ThinkNext Technologies] | [June2026 – August 2026]
 
 Add a short description of your actual responsibilities, tools, and work completed during the internship before publishing this section.
 
