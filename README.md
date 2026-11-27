@@ -1,218 +1,151 @@
+ 
+<!-- Animated Header -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=3000&pause=1000&color=FF4C6A&center=true&vCenter=true&width=600&height=80&lines=Hey%2C+I'm+Vanshi+Chaudhary+%F0%9F%96%A4;Code.+Create.+Conquer.+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vanshi+Chaudhary+%F0%9F%91%8B;AI+%26+Data+Science+Student;Aspiring+Data+Scientist;Learning+%7C+Building+%7C+Growing" alt="Animated introduction" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1000&color=79C0FF&center=true&vCenter=true&width=650&lines=print(%22Turning+data+into+insights%22);while+learning%3A+build()+%2B+practice()+%2B+improve();Exploring+Machine+Learning+and+AI" alt="Animated coding text" />
 
 </div>
 
 ---
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td valign="middle" width="55%">
+## 👩‍💻 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=FF4C6A&width=435&lines=const+vanshi+%3D+%7B;++role%3A+'Data+Science+Intern+%26+AI+Student'%2C;++vibe%3A+'Dark+mode+only+%F0%9F%96%A4'%2C;++fuel%3A+'Coffee+%2B+Code'%2C;++status%3A+'Always+building+something'%7D;" alt="Code intro" />
+<img align="right" alt="Girl working on laptop" width="220" src="https://raw.githubusercontent.com/VanshiChaudhary/VanshiChaudhary/main/girl%20with%20laptop.png" />
 
-<br/>
+- 🎓 B.Tech student in **Artificial Intelligence & Data Science** at CGC University, Mohali.
+- 📊 Interested in Data Science, Machine Learning, and data-driven problem solving.
+- 💻 Building projects and strengthening my programming and analytical skills.
+- 🌱 Currently improving my knowledge of Python, SQL, DSA, and Machine Learning.
+- 🤝 Open to learning opportunities, collaborations, and meaningful projects.
 
-🎓 &nbsp;**BTech AI & DS** | CGC University  
-🌙 &nbsp;Dark mode enthusiast who codes till midnight  
-⚡ &nbsp;Currently interning as a **Data Science Intern**  
-🎯 &nbsp;Building ML models that actually solve real problems  
-🔥 &nbsp;Open to **collaborations & cool projects**
-
-<br/>
-
-
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshi-chaudhary-887076364?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VanshiChaudhary)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vancytrar10@gmail.com)
-
-</td>
-<td valign="middle" width="45%" align="center">
-
-<img src="https://raw.githubusercontent.com/VanshiChaudhary/VanshiChaudhary/main/girl%20with%20laptop.png" alt="Vanshi's Avatar" width="280" />
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
----
 
-## 🛠️ Tech Arsenal
+## 🛠️ Technical Skills
 
-<div align="center">
-
-<table border="0" cellspacing="0" cellpadding="8">
-<tr>
-<td align="center">
+**Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</td>
-<td align="center">
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-</td>
-<td align="center">
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-</td>
-<td align="center">
+**Data Science & Analysis**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-</td>
-<td align="center">
-
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-</td>
-</tr>
-<tr>
-<td align="center">
+**Machine Learning & Development**
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-</td>
-<td align="center">
-
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-</td>
-<td align="center">
+**Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td align="center">
-
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</td>
-<td align="center">
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</td>
-<td align="center">
-</td>
-</tr>
-</table>
-
-</div>
-
----
 ---
 
 ## 🚀 Featured Projects
 
-<table align="center" border="0" cellspacing="0" cellpadding="10">
+### 1. Emotion Detection
+**Individual Project**
 
-<tr>
-<td width="50%" valign="top">
+A machine learning project focused on detecting and classifying emotions from data.
 
-### 💰 Expense Tracker System
-A desktop finance manager with full user authentication, income/expense tracking, and category-based financial insights. Built with Java and MySQL using JDBC for seamless database operations.
+- Worked on data preparation and model development.
+- Explored machine learning and deep learning approaches.
+- Used Python and Jupyter Notebook.
 
-`Java` `MySQL` `JDBC` `OOP`
+**Technologies:** Python | Machine Learning | Jupyter Notebook
 
-</td>
-<td width="50%" valign="top">
+### 2. RoboDoctor AI
+**Team Project | Frontend & UI/UX**
 
-### 🕵️ Fake Account Detector
-ML-powered web app that analyzes social media behavioral patterns to classify accounts as real or fake. Features real-time prediction with an interactive Streamlit interface.
+An AI-powered healthcare assistance platform designed to provide users with health-related information and guidance.
 
-`Python` `Machine Learning` `Streamlit` `Scikit-Learn`
+- Contributed to frontend development and UI/UX.
+- Worked with responsive interfaces and dashboard components.
+- Contributed to the project as a team member.
 
-</td>
-</tr>
+**Technologies:** Next.js | React | TypeScript | Tailwind CSS
 
-<tr>
-<td width="50%" valign="top">
+### 3. Fake Account Detector
+**Collaborative Project**
 
-### 🔍 VeriLens — Fake News Detector
-AI system that detects misinformation using emotion analysis, source credibility scoring, and live news cross-verification. Built to fight the spread of digital misinformation.
+A project focused on identifying potentially fake social media accounts using data-driven techniques.
 
-`Python` `NLP` `AI` `Streamlit`
+- Add your exact contribution here.
+- Add the dataset and model details you actually worked with.
 
-</td>
-<td width="50%" valign="top">
+**Technologies:** Python | Machine Learning | Streamlit
 
-### 🤖 RoboDoctor AI
-AI-powered health screening assistant that guides users through symptom analysis using intelligent conversation flows. Focused on making basic medical screening accessible to everyone.
+### 4. VeriLens – Fake News Detector
+**Collaborative Project**
 
-`Next.js` `TypeScript` `AI` `Healthcare`
+A project exploring fake news detection using natural language processing and machine learning.
 
-</td>
-</tr>
+- Add your exact contribution here.
+- Add the specific NLP techniques and models you worked with.
 
-</table>
+**Technologies:** Python | NLP | Machine Learning | Streamlit
 
-</div>
----
+### 5. Expense Tracker System
+**Collaborative Project**
 
-## 📊 GitHub Stats
+A Java-based application designed to help users record and manage expenses.
 
-<div align="center">
+- Add your exact contribution here.
+- Add the modules or functionality you implemented.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanshiChaudhary&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF4C6A&icon_color=FF4C6A&text_color=ffffff"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshiChaudhary&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4C6A&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VanshiChaudhary&theme=radical&hide_border=true&background=0D1117&stroke=FF4C6A&ring=FF4C6A&fire=FF4C6A&currStreakLabel=FF4C6A" alt="streak stats"/>
-
-</div>
+**Technologies:** Java | MySQL | JDBC
 
 ---
 
+## 💼 Experience
 
-## 🏆 GitHub Trophies
+**Data Scientist Intern — Summer Internship**
 
-<div align="center">
+[Organization Name] | [Month Year – Month Year]
 
-<img src="https://github-trophies.vercel.app/?username=VanshiChaudhary&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=4" />
-
-</div>
+Add a short description of your actual responsibilities, tools, and work completed during the internship before publishing this section.
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/VanshiChaudhary/VanshiChaudhary/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=VanshiChaudhary&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshiChaudhary&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 💭 Quote That Hits Different
+## 🤝 Let's Connect
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/vanshi-chaudhary-887076364/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
+<a href="mailto:vancytrar10@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
+<a href="https://github.com/VanshiChaudhary">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -220,8 +153,8 @@ AI-powered health screening assistant that guides users through symptom analysis
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=VanshiChaudhary&color=FF4C6A&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+### 💙 Keep Learning. Keep Building. Keep Growing.
 
-**"First, solve the problem. Then, write the code."**
+*Turning curiosity into code and data into insights.*
 
 </div>
